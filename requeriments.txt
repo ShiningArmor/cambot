@@ -1,2 +1,2 @@
 twython==3.4.0
-PyV4L2Camera==0.1a2
+pyv4l2==1.0.2
