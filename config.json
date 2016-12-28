@@ -1,0 +1,9 @@
+{
+	"app_key": "Tnz2arwJoCivJiWoUETunWbJ8",
+	"app_secret": "VtIJbQkUePkU7qX3ZwGtJr5t2HgNuBpZodu3Prf8NhLpFA7s8L",
+	"callback_url": "http://186.153.3.45:8866/auth",
+	"oauth_token": "786033269057789952-z99GVxqUookdMW4CHovmNkHbBrB6wlj",
+	"oauth_secret": "zk8yK5u7BAjNWiRxlske0i0zrcP38qeNM21QKssWR0yxW",
+	"filter": "@cataracha",
+	"interval":  10
+}
